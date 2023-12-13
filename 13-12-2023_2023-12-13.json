@@ -1,0 +1,68 @@
+[
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "lentes",
+    "inventarioProducto": 1,
+    "precioProducto": "25000"
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "reloj",
+    "inventarioProducto": 3,
+    "precioProducto": "100000"
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto": "medias",
+    "inventarioProducto": 4,
+    "precioProducto": "5000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "manilla",
+    "inventarioProducto": "5",
+    "precioProducto": "2000"
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "anillo",
+    "inventarioProducto": 6,
+    "precioProducto": "7000"
+  },
+  {
+    "codigoProducto": "11",
+    "nombreProducto": "objeto11",
+    "inventarioProducto": 8,
+    "precioProducto": "111111"
+  },
+  {
+    "codigoProducto": "12",
+    "nombreProducto": "prod12",
+    "inventarioProducto": 5,
+    "precioProducto": "120000"
+  },
+  {
+    "codigoProducto": "13",
+    "nombreProducto": "prod13",
+    "inventarioProducto": 8,
+    "precioProducto": "130000"
+  },
+  {
+    "codigoProducto": "14",
+    "nombreProducto": "product14",
+    "inventarioProducto": 7,
+    "precioProducto": "140000"
+  },
+  {
+    "codigoProducto": "15",
+    "nombreProducto": "proud15",
+    "inventarioProducto": 6,
+    "precioProducto": "150000"
+  },
+  {
+    "codigoProducto": "16",
+    "nombreProducto": "product16",
+    "inventarioProducto": "12",
+    "precioProducto": "4000"
+  }
+]
